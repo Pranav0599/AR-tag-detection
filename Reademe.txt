@@ -1,0 +1,6 @@
+Instructions to run the code:
+For Prob 1a, Prob 1b, Superimposing:
+$python3 <filename>.py     #(filename = Prob1a.py, Prob1b.py, Superimposing.py)
+
+for Prob 2b:
+Superimposing is imported in cube_projection
